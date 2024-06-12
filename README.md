@@ -1,0 +1,1 @@
+< a href="https://medium.com/@jackchawanwit/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-oracle-database-%E0%B8%9A%E0%B8%99-centos-7-e49b648fe68">วิธีติดตั้ง</a>
